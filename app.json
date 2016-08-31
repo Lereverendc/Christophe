@@ -1,0 +1,17 @@
+{
+  "name": "Christophe",
+  "description": "app.json file",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+    "herokuconnect",
+    "heroku-postgresql"
+  ],
+  "buildpacks": [
+
+  ]
+}
